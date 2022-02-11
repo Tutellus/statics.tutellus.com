@@ -1,1 +1,1 @@
-# TUTELLUS Launchapad Info directory
+# TUTELLUS Launchpad Info directory
