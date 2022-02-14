@@ -1,0 +1,1 @@
+StarTerra is a Gamified Launchpad that features Play2Earn, NFTs, as well as an innovative Multi-Planetary-Farming Feature. Using our Gamified Leaderboards, players can gain an edge on their competition and increase their chances of winning an allocation for an IDO!
