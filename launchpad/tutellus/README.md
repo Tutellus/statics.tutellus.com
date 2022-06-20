@@ -1,1 +1,0 @@
-# TUTELLUS Launchpad Info directory
