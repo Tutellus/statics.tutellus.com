@@ -2,68 +2,6 @@
 
 # TÉRMINOS Y CONDICIONES GENERALES DE LA CONTRATACIÓN (T&CG) DEL SERVICIO LAUNCHPAD
 
-## INDICE
-
-**[INFORMACIÓN LEGAL](información-legal)**
-
-**1. [DEFINICIONES](#definiciones)**
-
-**2. [OBJETO](#objeto)**
-
-**3. [DESCRIPCIÓN GENERAL DE LOS SERVICIOS](#descripción-general-de-los-servicios)**
-
-**4. [CONDICIONES DE ACCESO A LAUNCHPAD](#condiciones-de-acceso-a-launchpad)**
-
-**4.1. [ACEPTACIÓN DE LOS PRESENTES T&CG](#aceptación-de-los-presentes-tcg)**
-
-**4.2. [REQUISITOS PARA LA ADQUISICIÓN DE LA CONDICIÓN DE USUARIO](#requisitos-para-la-adquisición-de-la-condición-de-usuario)**
-
-**4.3. [VINCULACIÓN DE WALLET EXTERNO](#vinculación-de-wallet-externo)**
-
-**4.4. [REQUERIMIENTOS DE INFORMACIÓN Y DOCUMENTACIÓN](#requerimientos-de-información-y-documentación)**
-
-**5. [CONDICIONES DE USO DE LAUNCHPAD](#condiciones-de-uso-de-launchpad)**
-
-**5.1. [NIVELES DE PARTICIPACIÓN](#niveles-de-participación)**
-
-**5.2. [INSCRIPCIÓN Y CONDICIONES DE PARTICIPACIÓN EN LA IDO](#inscripción-y-condiciones-de-participación-en-la-ido)**
-
-**5.3. [PROCESO DE ASIGNACIÓN DE LOS UTILITY TOKENS](#proceso-de-asignación-de-los-utility-tokens)**
-
-**5.4. [PROCESO DE DISTRIBUCIÓN Y VENTA DE LOS UTILITY TOKENS](#proceso-de-distribución-y-venta-de-los-utility-tokens)**
-
-**5.5. [LIMITACIONES Y RESTRICCIONES DEL SERVICIO](#limitaciones-y-restricciones-del-servicio)**
-
-**5.6. [PRECIO DE LOS SERVICIOS](#precio-de-los-servicios)**
-
-**6. [IMPUESTOS](#impuestos)**
-
-**7. [DURACIÓN DEL CONTRATO](#duración-del-contrato)**
-
-**8. [OBLIGACIONES GENERALES](#obligaciones-generales)**
-
-**9. [MANTENIMIENTO](#mantenimiento)**
-
-**10. [EXTINCIÓN Y RESOLUCIÓN](#extinción-y-resolución)**
-
-**11. [RESPONSABILIDAD](#responsabilidad)**
-
-**12. [EXCLUSIONES DE RESPONSABILIDAD](#exclusiones-de-responsabilidad)**
-
-**13. [CESIÓN Y SUBROGACIÓN](#cesión-y-subrogación)**
-
-**14. [ENTRADA EN VIGOR DE LOS T&CG](#entrada-en-vigor-de-los-tcg)**
-
-**15. [PROTECCIÓN DE DATOS](#protección-de-datos)**
-
-**16. [PROPIEDAD INTELECTUAL E INDUSTRIAL](#propiedad-intelectual-e-industrial)**
-
-**17. [ENLACES A PÁGINAS EXTERNAS](#enlaces-a-páginas-externas)**
-
-**18. [LEY APLICABLE Y JURISDICCIÓN COMPETENTE](#ley-aplicable-y-jurisdicción-competente)**
-
-**19. [NULIDAD DE ALGUNA DISPOSICIÓN](#nulidad-de-alguna-disposición)**
-
 ## INFORMACIÓN LEGAL
 
 **TUTELLUS TECHNOLOGIES S.L.,** (en adelante, **Tutellus**), con domicilio a estos efectos en Calle Don Ramón de la Cruz, 38, 28001, Madrid, España, inscrita en el Registro Mercantil de Madrid al tomo 30.780, folio 60, inscripción 1 con hoja M-553914, es titular de la página web: <https://www.tutellus.io/es/> mediante la cual se accede a la Plataforma de Tecnología de Registro Distribuido denominada Tutellus y al servicio Launchpad.
