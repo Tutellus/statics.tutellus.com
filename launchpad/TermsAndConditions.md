@@ -4,7 +4,7 @@
 
 ## INFORMACIÓN LEGAL
 
-**TUTELLUS TECHNOLOGIES S.L.,** (en adelante, **Tutellus**), con domicilio a estos efectos en Calle Don Ramón de la Cruz, 38, 28001, Madrid, España, inscrita en el Registro Mercantil de Madrid al tomo 30.780, folio 60, inscripción 1 con hoja M-553914, es titular de la página web: <https://www.tutellus.io/es/> mediante la cual se accede a la Plataforma de Tecnología de Registro Distribuido denominada Tutellus y al servicio Launchpad.
+**TUTELLUS TECHNOLOGIES S.L.,** (en adelante, **Tutellus**), con domicilio a estos efectos en Calle Méndez Álvaro 9, 28045, Madrid, España, inscrita en el Registro Mercantil de Madrid al tomo 30.780, folio 60, inscripción 1 con hoja M-553914, es titular de la página web: <https://www.tutellus.io/es/> mediante la cual se accede a la Plataforma de Tecnología de Registro Distribuido denominada Tutellus y al servicio Launchpad.
 
 ## 1. DEFINICIONES
 
@@ -117,14 +117,14 @@ Por otra parte, para la prestación de los servicios objeto de los presentes T&C
 
 A través de Launchpad, Tutellus ofrece un listado de IDO o proyectos de terceros, analizados y seleccionados previamente por Tutellus, y permitirá el acceso, de forma anticipada y con ventajas exclusivas, para los Usuarios que dispongan de TUT (en adelante, TUT Holders). En este sentido, el protocolo de la Plataforma Tutellus establece dos niveles para poder participar en una IDO:
 
-- **Nivel Tutelliano**: aquellos usuarios que realicen un staking mínimo de 1.000 TUT. Este nivel da acceso al usuario a un 15% aproximadamente de la inversión total (dependerá de las condiciones de cada IDO) y por sorteo.
+- **Nivel Venture**: aquellos usuarios que realicen un staking mínimo de 1.000 TUT. Este nivel da acceso al usuario a un 15% aproximadamente de la inversión total (dependerá de las condiciones de cada IDO) y siempre por sorteo.
 
-- **Nivel SuperTutelliano**: aquellos usuarios que realicen un staking mínimo de 15.000 TUT. Este nivel da acceso entre un 15% y 25% aproximadamente de la inversión total. No obstante, en este nivel el usuario tiene asegurado al menos la mitad de la inversión. Así mismo, el porcentaje de las carteras más TOP (dependerá de las condiciones de cada IDO) tendrá asegurado el 100% de la inversión total.
+- **Nivel SuperVenture**: aquellos usuarios que realicen un staking mínimo de 20.000 TUT. Este nivel da acceso entre un 15% y 25% aproximadamente de la inversión total. No obstante, en este nivel el usuario tiene asegurado al menos la mitad de la inversión. Así mismo, el porcentaje de las carteras más TOP (dependerá de las condiciones de cada IDO) tendrá asegurado el 100% de la inversión total.
 
-Así, el Usuario, una vez haya conectado su Wallet externo a la Plataforma Tutellus y se haya comprobado su nivel (Tutelliano o SuperTutelliano), este deberá seguir los siguientes pasos para participar en cada IDO:
+Así, el Usuario, una vez haya conectado su Wallet externo a la Plataforma Tutellus y se haya comprobado su nivel (Venture o Superventure), este deberá seguir los siguientes pasos para participar en cada IDO:
 
 1. Elegir la facción a la que quiere pertenecer.
-2. Bloquear (en USDT) los fondos que desea invertir.
+2. Fondear (en USDT) el montante de dinero que desea invertir.
 3. Participar ganando energía extra y completando acciones.
 
 Las condiciones específicas son establecidas en el Whitepaper de cada IDO concreto con las que el Usuario desee interactuar. Tutellus presta los servicios ofrecidos en cada Whitepaper en nombre y por cuenta de la empresa emisora de la IDO.
@@ -133,7 +133,7 @@ Es la empresa emisora de la IDO la encargada de establecer las Condiciones Parti
 
 ### 5.2. INSCRIPCIÓN Y CONDICIONES DE PARTICIPACIÓN EN LA IDO
 
-Para poder participar en el lanzamiento de proyectos o IDO de futuros Tokens a través de la lanzadera de Tutellus, es requisito indispensable que el Usuario haya realizado el proceso de KYC y la identificación del Wallet del Usuario en la Plataforma Tutellus.
+Para poder participar en el lanzamiento de proyectos o IDO de futuros tokens a través de la lanzadera de Tutellus, es requisito indispensable que el Usuario haya realizado el proceso de KYC y la identificación del Wallet del Usuario en la Plataforma Tutellus.
 
 Para participar en las IDO listadas en Launchpad será necesario que el Usuario cuente con USDT y TUT en la Wallet conectada a la Plataforma Tutellus. Así, el Usuario deberá enviar la cantidad de USDT con la que desee participar en la correspondiente IDO en la que quiera participar. El Usuario podrá modificar la participación añadiendo más USDT durante el tiempo que la IDO permanezca activa. El importe en USDT aportado durante la IDO no se podrá retirar hasta el momento de cierre de la IDO.
 
@@ -169,7 +169,7 @@ Según se vayan cumpliendo el periodo de vesting establecido en el Whitepaper de
 
 En caso de no ser asignados o no se emitan los Utility tokens, el Usuario recuperará los fondos (USDT) aportados al comienzo de la IDO.
 
-Las condiciones específicas de distribución de cada futuro Utility token se establecerán en el Whitepaper correspondiente en cada caso, que deberás ser leídas y se aceptarán junto a los presentes T&CG. El Usuario podrá acceder al Whitepaper de cada IDO en la página web de la Plataforma Tutellus.Los Utility tokens reclamados por el Usuario en las IDO listadas por Launchpad serán almacenadas en la Wallet del Usuario vinculada al efecto en la Plataforma.
+Las condiciones específicas de distribución de cada futuro Utility token se establecerán en el Whitepaper correspondiente en cada caso, que deberás ser leídas y se aceptarán junto a los presentes T&CG. El Usuario podrá acceder al Whitepaper de cada IDO en la página web de la Plataforma Tutellus. Los Utility tokens reclamados por el Usuario en las IDO listadas por Launchpad serán almacenadas en la Wallet del Usuario vinculada al efecto en la Plataforma.
 
 ### 5.5. LIMITACIONES Y RESTRICCIONES DEL SERVICIO
 
