@@ -145,11 +145,12 @@ Será causa de resolución del presente contrato:
 - Incumplimiento de la obligación de pago por parte del CLIENTE. 
 - Por incumplimiento de las obligaciones contractuales por cualquiera de las partes, mediante notificación escrita y siempre que este incumplimiento, en caso de poder ser subsanados, no se haya realizado en el plazo de 15 días naturales a partir de la fecha de notificación a la parte que no haya cumplido. En caso de no subsanación por la parte incumplidora, la otra parte podrá resolver el presente contrato, y se valorarán los daños y perjuicios causados por dicho incumplimiento teniendo en cuenta los resultados alcanzados y los gastos comprendidos. Esta valoración nunca superará la cuantía económica total de este contrato.
 - Por causas establecidas en la normativa vigente que les sean de aplicación. 
-- NULIDAD
+
+## 13. NULIDAD
 
 Si alguna de las cláusulas del presente Contrato, de cuya validez no dependa la validez del mismo, resultare nula por contravenir la legislación aplicable, las partes se comprometen a renegociar la misma. Si en el plazo de 30 días desde el inicio de las negociaciones no existiera acuerdo entre las partes, la cláusula se tendrá definitivamente por no puesta.
 
-## 13. LEGISLACIÓN APLICABLE Y JURISDICCIÓN
+## 14. LEGISLACIÓN APLICABLE Y JURISDICCIÓN
 
 Este Contrato se regirá a todos los efectos, incluyendo validez, interpretación y eficacia, por la ley española. Las partes intervinientes acuerdan libre y voluntariamente que cualquier litigio, discrepancia, pregunta, reclamación que resulte de la ejecución o interpretación de este documento técnico y cómo tratarlo o relacionado con él, directa o indirectamente, será resuelto definitivamente a través del Arbitraje administrado por el Blockchain Arbitration Society (BAS), a la que se le encomienda la administración del arbitraje y la designación del árbitro o árbitros, de acuerdo con su Reglamento y Estatutos. El idioma del arbitraje será el español.
 
