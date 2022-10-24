@@ -145,7 +145,7 @@ Será causa de resolución del presente contrato:
 - Incumplimiento de la obligación de pago por parte del CLIENTE. 
 - Por incumplimiento de las obligaciones contractuales por cualquiera de las partes, mediante notificación escrita y siempre que este incumplimiento, en caso de poder ser subsanados, no se haya realizado en el plazo de 15 días naturales a partir de la fecha de notificación a la parte que no haya cumplido. En caso de no subsanación por la parte incumplidora, la otra parte podrá resolver el presente contrato, y se valorarán los daños y perjuicios causados por dicho incumplimiento teniendo en cuenta los resultados alcanzados y los gastos comprendidos. Esta valoración nunca superará la cuantía económica total de este contrato.
 - Por causas establecidas en la normativa vigente que les sean de aplicación. 
-1. **NULIDAD**
+- NULIDAD
 
 Si alguna de las cláusulas del presente Contrato, de cuya validez no dependa la validez del mismo, resultare nula por contravenir la legislación aplicable, las partes se comprometen a renegociar la misma. Si en el plazo de 30 días desde el inicio de las negociaciones no existiera acuerdo entre las partes, la cláusula se tendrá definitivamente por no puesta.
 
