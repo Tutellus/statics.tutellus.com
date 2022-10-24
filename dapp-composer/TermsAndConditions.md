@@ -83,15 +83,15 @@ El CLIENTE se compromete a mantener en los contratos de staking o farming la can
 
 - 6.4. Sin perjuicio de las obligaciones impuestas por la normativa nacional y/o asumida por la parte receptora de la información confidencial, las obligaciones de confidencialidad recogidas en este contrato no serán aplicables a la información respecto de la que la parte receptora pueda demostrar:
 
--- a) Que fuera del dominio público en el momento de haberle sido revelada.
+** a) Que fuera del dominio público en el momento de haberle sido revelada.
 
--- b) Que, después de haberle sido revelada, fuera publicado o de otra forma pasara a ser de dominio público, sin quebrantamiento de la obligación de confidencialidad por la parte que recibiera dicha información.
+** b) Que, después de haberle sido revelada, fuera publicado o de otra forma pasara a ser de dominio público, sin quebrantamiento de la obligación de confidencialidad por la parte que recibiera dicha información.
 
--- c) Que en el momento de haberle sido revelada, la parte que la recibió ya estuviera en posesión de la misma por medios lícitos o tuviera derecho legalmente a acceder a la misma.
+** c) Que en el momento de haberle sido revelada, la parte que la recibió ya estuviera en posesión de la misma por medios lícitos o tuviera derecho legalmente a acceder a la misma.
 
--- d) Que tuviera consentimiento escrito previo de la otra parte para desvelar la información.
+** d) Que tuviera consentimiento escrito previo de la otra parte para desvelar la información.
 
--- e) Que haya sido solicitada por las autoridades administrativas o judiciales competentes que deban pronunciarse sobre aspectos totales o parciales del mismo, en cuyo caso, la parte que tenga que realizar la presentación deberá comunicárselo a la otra con carácter previo a que dicha presentación tenga lugar. 
+** e) Que haya sido solicitada por las autoridades administrativas o judiciales competentes que deban pronunciarse sobre aspectos totales o parciales del mismo, en cuyo caso, la parte que tenga que realizar la presentación deberá comunicárselo a la otra con carácter previo a que dicha presentación tenga lugar. 
 
 - 6.5. Los anteriores compromisos de confidencialidad se mantendrán en vigor durante el tiempo que se mantenga la relación jurídica y después de la extinción o cumplimiento del presente contrato, sin que ello signifique que la información, obtenida o intercambiada como consecuencia de este contrato, pueda ser considerada pública ni que exista autorización para su difusión. Ambas Partes se comprometen a devolver o destruir la información confidencial cedida en el ámbito de la prestación del servicio, en el caso de que se produzca cualquiera de las siguientes circunstancias: (i) finalización de la ejecución de los servicios; o (ii) a petición de la parte emisora. 
 
