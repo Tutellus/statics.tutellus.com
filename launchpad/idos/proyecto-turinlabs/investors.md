@@ -1,0 +1,3 @@
+- IDO token price: $0.10, with 11 months lineal vesting since month -1.
+- Public token price: $0.30, after the IDO, in a sushi pool.
+- The only way to buy tokens after the IDO will be in the pool or since the month 12 in the PSDA, each day and 5.800 tokens in a daily auction. Tokens not sold will be burnt.
