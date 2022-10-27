@@ -14,4 +14,4 @@ So stakeholders and entities in the Tutellus ecosystem are:
 4. **Startups**: projects born around Tutellus who need to raise funds. They can do it through the Launchpad service ([here](https://www.notion.so/tutellus/products/launchpad)).
 5. **LPs / Liquidity providers**: holders who reinforce the protocol by adding liquidity (TUT+WBTC in a 50-50) in the farming pool ([here](https://www.notion.so/tutellus/products/farming-pool)).
 
-![STAKEHOLDERS.jpeg](Introduction%20a17dd0ad782145bc889f7436b2d8e5c1/STAKEHOLDERS.jpeg)
+![STAKEHOLDERS](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/tokentrotter/stakeholders.jpg)

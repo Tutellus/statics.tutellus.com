@@ -1,4 +1,4 @@
-![roadmap TTR.png](Roadmap%209c36b92e1aa6430e9533657a0d9ab782/roadmap_TTR.png)
+![roadmap](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/tokentrotter/roadmap_ttr.png)
 
 TokenTrotter is very aware of its mission; to help people have fun and educate themselves while travelling. Generate emotions and give people and families a way to keep an indelible memory of their trips as well as give them rewards as they travel.
 
