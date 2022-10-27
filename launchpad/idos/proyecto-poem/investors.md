@@ -1,0 +1,4 @@
+- First tokens were sold to $20.
+- Each time there’s a new sell from the pool, prices go up.
+- Since token nº70 price is around $185.
+- Last $POEM token will be sold around $100.000

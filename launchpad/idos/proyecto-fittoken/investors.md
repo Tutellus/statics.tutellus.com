@@ -1,0 +1,3 @@
+- Holders of private sale will be able to claim their FITtokens with a 6-month vesting with no cliff since the TGE, and once per month.
+- Holders who buy in public sale (DEX) will have their tokens in their wallets, as any other holder.
+- FITtoken price starts at $0.25 in the Pancakeswap liquidity pool on July 2021.

@@ -1,0 +1,2 @@
+- $REQ token will be listed when TurinPool gets launched, in the TGE. The first token of TurinPool will be our own token. after trying to do it over the Liquid network we finally will launch it over an EVM-compatible blockchain like Oasis, to keep key features safe. We plan to do it in Q3 2022.
+- Token will be a liquid asset from that moment, so any accredited investor will be able to trade and get it.

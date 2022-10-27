@@ -1,0 +1,3 @@
+- Holders of private sale will be able to claim their TUT tokens with a 6 month vesting with no cliff since the TGE, and per block.
+- Holders who buy in public sale (DEX) will have their tokens in their wallets, as any other holder.
+- TUT Price will start at $0.25 in the Sushiswap liquidity pool on oct 14th, 2021.
