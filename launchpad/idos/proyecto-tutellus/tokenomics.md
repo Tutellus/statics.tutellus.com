@@ -14,14 +14,14 @@ The core team will start getting their tokens from month 9 and Tutellus Treasury
 
 ### 2. Distribution.
 
-| **Stakeholder**     | **Quantity**| **Percentage** |
-| ------------------- | ----------- | -------------- |
-| Private sale + 2017 | 10,000,000  | 5%             |
-| Team                | 6,000,000   | 3%             |
-| Treasury            | 30,000,000  | 15%            |
-| Yields              | 64,000,000  | 32%            |
-| Rewards             | 90,000,000  | 45%            |
-| Total               | 200,000,000 | 100%           |
+| **Stakeholder**     | **Quantity** | **Percentage** |
+| ------------------- | ------------ | -------------- |
+| Private sale + 2017 | 10,000,000   | 5%             |
+| Team                | 6,000,000    | 3%             |
+| Treasury            | 30,000,000   | 15%            |
+| Yields              | 64,000,000   | 32%            |
+| Rewards             | 90,000,000   | 45%            |
+| Total               | 200,000,000  | 100%           |
 
 ![Captura de pantalla 2022-04-28 a las 12.23.25.png](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/tutellus/tut-project-03.png)
 
