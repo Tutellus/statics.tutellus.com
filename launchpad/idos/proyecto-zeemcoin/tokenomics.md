@@ -19,30 +19,28 @@ $ZEEM Token holders will be able to claim rewards if they stake/farm their token
 
 ### 2. Distribution.
 
-| Stakeholder  | No. ZEEM   | Allocation | Vesting | Price          |
-| ------------ | ---------- | ---------- | ------- | -------------- |
-| Private sale | 12,000,000 | 12%        | 12m     | $0.05 SOLD-OUT |
-| Launchpad    | 3,750,000  | 3.75%      | 12m     | $0.12          |
-| Initial pool | 200,000    | 0.2%       | -       | $0.25          |
-| Team         | 10,000,000 | 10%        | 15m     |                |
-
-| Airdrops | 400,000 | 0.4% | - | |
-| Marketing | 6,650,000 | 6.65% | 24m | |
-| EV Drivers Rewards | 30,000,000 | 30% | 120m | |
-| Liquidity Reserve | 3,000,000 | 3% | - | |
-| Incentives | 30,000,000 | 30% | 60m | |
-| Total | 100,000,000 | 100% | | |
+| Stakeholder        | No. ZEEM    | Allocation | Vesting | Price          |
+| ------------------ | ----------- | ---------- | ------- | -------------- |
+| Private sale       | 12,000,000  | 12%        | 12m     | $0.05 SOLD-OUT |
+| Launchpad          | 3,750,000   | 3.75%      | 12m     | $0.12          |
+| Initial pool       | 200,000     | 0.2%       | -       | $0.25          |
+| Team               | 10,000,000  | 10%        | 15m     |                |
+| Airdrops           | 400,000     | 0.4%       | -       |                |
+| Marketing          | 6,650,000   | 6.65% .    | 24m     |                |
+| EV Drivers Rewards | 30,000,000  | 30%        | 120m    |                |
+| Liquidity Reserve  | 3,000,000   | 3%         | -       |                |
+| Incentives         | 30,000,000  | 30%        | 60m     |                |
+| Total              | 100,000,000 | 100%       |         |                |
 
 ### 3. Progressive token release.
 
-| Stakeholder  | ZEEM/month | From (month) | To (month) |
-| ------------ | ---------- | ------------ | ---------- |
-| Private sale | 916,667    | -1           | 11         |
-| Launchpad    | 312,500    | 0            | 12         |
-| Team         | 625,000    | 9            | 24         |
-
-| Marketing | 277,083 | 0 | 24 |
-| EV Drivers Rewards | 250,000 | 0 | 120 |
-| Incentives | 500,000 | 0 | 60 |
+| Stakeholder        | ZEEM/month | From (month) | To (month) |
+| ------------------ | ---------- | ------------ | ---------- |
+| Private sale       | 916,667    | -1           | 11         |
+| Launchpad          | 312,500    | 0            | 12         |
+| Team               | 625,000    | 9            | 24         |
+| Marketing          | 277,083    | 0            | 24         |
+| EV Drivers Rewards | 250,000    | 0            | 120        |
+| Incentives         | 500,000    | 0            | 60         |
 
 For more information, please visit [our Whitepaper](https://whitepaper.zeemcoin.com/white-paper/tokenomics-usdzeem/distribution-and-rounds).
