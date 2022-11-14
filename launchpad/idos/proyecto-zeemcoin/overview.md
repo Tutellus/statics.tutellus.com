@@ -1,4 +1,4 @@
-Zeemcoin is the first tokenized platform in the e-Mobility sector that, through its mobile app and its community of electric car drivers, collects data on the public charging experience, such as the quality of chargers, availability in real time and the services offered around the European charger network.
+Zeemcoin is the first tokenized platform in the e-Mobility sector that, through its mobile app and its community of electric car drivers, collects data on the public charging experience, such as the quality of chargers and the services offered around the European charger network.
 
 ![https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zeemcoin/zeemcoin1.png](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zeemcoin/zeemcoin1.png)
 
