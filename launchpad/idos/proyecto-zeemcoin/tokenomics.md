@@ -22,7 +22,7 @@ $ZEEM Token holders will be able to claim rewards if they stake/farm their token
 | Stakeholder                          | No. ZEEM    | Allocation | Vesting | Price          |
 | ------------------------------------ | ----------- | ---------- | ------- | -------------- |
 | Private sale                         | 12,000,000  | 12%        | 12m     | $0.05 SOLD-OUT |
-| Launchpad                            | 850,000     | 3.75%      | 12m     | $0.12          |
+| Launchpad                            | 850,000     | 0.9%       | 12m     | $0.12          |
 | Initial pool                         | 200,000     | 0.2%       | -       | $0.25          |
 | Advisory Board                       | 4,000,000   | 4%         | -       | $0.25          |
 | Airdrops                             | 400,000     | 0.4%       | -       |                |
