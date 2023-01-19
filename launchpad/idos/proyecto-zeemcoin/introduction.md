@@ -1,21 +1,11 @@
 Zeemcoin's mission is to improve the user experience for drivers when charging on public roads with the aim to boost the adoption of electric mobility in Europe.
 
-**Zeemcoin APP is available on IOS and Android “in Spain” :**
+**Zeemcoin APP is available on IOS and Android in 11 Countries in Europe:**
 
 - [https://play.google.com/store/apps/details?id=com.zeemcoin](https://play.google.com/store/apps/details?id=com.zeemcoin)
 - [https://apps.apple.com/es/app/zeemcoin/id1629590783?l=en](https://apps.apple.com/es/app/zeemcoin/id1629590783?l=en)
 
-Zeemcoin mobile APP includes the following modules and solutions:
-
-**Reward Center:** The Reward Center is where drivers receive $ZEEM tokens and can buy products and services related to the eMobility industry and other sustainable options.
-
-**Quality Big Data Module:** Our Quality Big Data Module system uses gamification to generate Big Data from electric vehicle drivers who provide feedback about the charging stations and the services around them. These Big Data Reports will improve EV Infrastructure across Europe. This information is used by CPOs (Charge Point Operators) and other players to improve their customer experience.
-
-**Sustainable Module:** You will be able to offset you carbon footprint, plant trees, create NFTs and much more ;-)
-
-**Road Trip Planner:** Will intelligently propose the best available route for a trip, taking into account all the refined information of the charging infrastructure, as the drivers will report incidents of the chargers that the system will take it into account (similar to Waze with accidents or traffic jams).
-
-**Advertising Module:** As we know where drivers will stop and for how much time, we will provide them with adds during the trip. The driver will receive rewards in $ZEEM tokens for the impacts as Brave/VAT Model.
+![zeemcoin4.png](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zeemcoin/zeemcoin4.png)
 
 # Business Flow
 
@@ -27,17 +17,20 @@ EV Drivers receive Zeemcoin tokens in reward for evaluating chargers. For each c
 
 EV Drivers can evaluate a charger and earn rewards every 12 hours.
 
+![zeemcoin5.png](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zeemcoin/zeemcoin5.png)
+
+![zeemcoin6.png](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zeemcoin/zeemcoin6.png)
+
 # **Zeemcoin token has many usabilities:**
 
 Pay for Products, Services & Discounts
 
+- Become the eMobility industry standard payment method.
 - Buy a VELCA 100% electric motorcycle, with a discount of 300 €.
 - Rent a Tesla 100% electric car with FutureDrive
 - Install a charger for your electric car with IonClick
 - Get a discount on a blockchain course with Tutellus
-
-Plant trees at Zeemcoin Valley, earn NFTs and access Sustainability Programs were you will be able to generate Carbon Credits.
-
-DeFi at Zeemcoin dAPP (Farming/Staking)
+- Plant trees at Zeemcoin Valley, earn NFTs and access Sustainability Programs where you will be able to generate Carbon Credits.
+- DeFi at Zeemcoin dAPP (Farming/Staking): https://testnet.app.zeemcoin.com/es
 
 ![zeemc bf.png](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zeemcoin/zeemcoin2.png)

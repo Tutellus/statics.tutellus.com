@@ -1,2 +1,2 @@
-- IDO token price: $0.12, with 12 months lineal vesting since month 0.
+- IDO token price: $0.12, with 8% allocation in TGE and 12 months with lineal vesting.
 - Public token price: $0.25, after the IDO, in a sushi pool.
