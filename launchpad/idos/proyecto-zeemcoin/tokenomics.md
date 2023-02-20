@@ -19,18 +19,18 @@ $ZEEM Token holders will be able to claim rewards if they stake/farm their token
 
 ### 2. Distribution.
 
-| Stakeholder                          | No. ZEEM    | Allocation | Vesting | Price          |
-| ------------------------------------ | ----------- | ---------- | ------- | -------------- |
-| Private sale                         | 12,000,000  | 12%        | 12m     | $0.05 SOLD-OUT |
-| Launchpad                            | 850,000     | 0.9%       | 12m     | $0.12          |
-| Initial pool                         | 200,000     | 0.2%       | -       | $0.25          |
-| Advisory Board                       | 4,000,000   | 4%         | -       | $0.25          |
-| Airdrops                             | 400,000     | 0.4%       | -       |                |
-| Marketing                            | 6,650,000   | 6.6%       | 24m     |                |
-| EV Drivers Rewards                   | 30,000,000  | 30%        | 120m    |                |
-| Incentives - Yield Farming & Staking | 30,000,000  | 30%        | 60m     |                |
-| Reserve for Liquidity                | 5,900,000   | 6%         | -       |                |
-| Core Team                            | 10,000,000  | 10%        | 15m     |                |
-| Total                                | 100,000,000 | 100%       |         |                |
+| Stakeholder                          | No. ZEEM    | Allocation |
+| ------------------------------------ | ----------- | ---------- |
+| Private sale                         | 12,000,000  | 12%        |
+| Launchpad                            | 850,000     | 0.9%       |
+| Initial pool                         | 100,000     | 0.1%       |
+| Advisory Board                       | 4,000,000   | 4%         |
+| Airdrops                             | 400,000     | 0.4%       |
+| Marketing                            | 6,650,000   | 6.6%       |
+| EV Drivers Rewards                   | 30,000,000  | 30%        |
+| Incentives - Yield Farming & Staking | 30,000,000  | 30%        |
+| Reserve for Liquidity                | 6,000,000   | 6%         |
+| Core Team                            | 10,000,000  | 10%        |
+| Total                                | 100,000,000 | 100%       |
 
 For more information, please visit [our Whitepaper](https://whitepaper.zeemcoin.com/white-paper/tokenomics-usdzeem/distribution-and-rounds).
