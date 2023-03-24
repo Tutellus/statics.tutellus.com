@@ -1,3 +1,9 @@
+# INFORMACIÓN Y RIESGOS IDENTIFICADOS
+
+Según la [Circular 4/2018, de 5 de junio, del Banco de España y el CNMV, sobre publicidad de productos y servicios de inversión que incluyan criptoactivos.](https://www.boe.es/eli/es/cir/2022/01/10/1/con)
+
+Es importante leer y comprender los riesgos asociados a la inversión en criptoactivos que se explican detalladamente en este documento:
+
 ## Producto de inversión de alto riesgo
 
 1. El valor de las inversiones y el rendimiento obtenido de las mismas puede experimentar significativas variaciones al alza y a la baja, pudiendo perderse la totalidad del importe invertido.
@@ -16,5 +22,4 @@
 ## Riesgos legales
 
 10. La aceptación de los criptoactivos como medio de cambio es aún muy limitada y no existe obligación legal de aceptarlos.
-11. Cuando el proveedor de servicios no se encuentra localizado en un país de la Unión Europea la resolución de cualquier conflicto podría resultar costosa y quedar fuera del ámbito de competencia de las autoridades españolas.
-12. Cuando el inversor no disponga de los criptoactivos, estando en monederos digitales («wallets») del proveedor de servicios, y sin acceso a las claves privadas de los mismos, se indicará esta situación y se describirán los derechos del inversor sobre estos criptoactivos.
+11. Puede consultar información adicional en los [Términos, condiciones de uso y política de cookies](https://formacion.tutellus.com/informacion/terminos-y-condiciones) de la web [https://www.tutellus.com](https://www.tutellus.com) y en la sección de [Docs](https://docs.tutellus.com/tutellus/) de la web [https://www.tutellus.io/es/](https://www.tutellus.io/es/)
