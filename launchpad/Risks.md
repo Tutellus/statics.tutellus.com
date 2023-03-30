@@ -1,6 +1,6 @@
 # INFORMACIÓN Y RIESGOS IDENTIFICADOS
 
-Según la [Circular 4/2018, de 5 de junio, del Banco de España y la CNMV, sobre publicidad de productos y servicios de inversión que incluyan criptoactivos.](https://www.boe.es/eli/es/cir/2022/01/10/1/con)
+Según la [Circular 1/2022, de 10 de enero, de la Comisión Nacional del Mercado de Valores, relativa a la publicidad sobre criptoactivos presentados como objeto de inversión.](https://www.boe.es/eli/es/cir/2022/01/10/1/con)
 
 Es importante leer y comprender los riesgos asociados a la inversión en criptoactivos que se explican detalladamente en este documento:
 
