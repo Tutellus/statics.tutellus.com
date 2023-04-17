@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Miguel Caballero",
+    "title": "CEO",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "order": 1
+  },
+  {
+    "name": "Javi “Sokar” Ortiz",
+    "title": "CTO",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "order": 2
+  },
+  {
+    "name": "Chema Prieto",
+    "title": "CMO",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "order": 3
+  },
+  {
+    "name": "Fernando Ramos",
+    "title": "CLO",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/framos.png",
+    "order": 4
+  },
+  {
+    "name": "Víctor Merino",
+    "title": "Web3 builder",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "order": 5
+  },
+  {
+    "name": "Guille Pérez",
+    "title": "Web3 builder",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "order": 6
+  },
+  {
+    "name": "Dani Muñoz",
+    "title": "Frontender",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "order": 7
+  },
+  {
+    "name": "David García",
+    "title": "Frontender",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "order": 8
+  },
+  {
+    "name": "Jordi Muñoz",
+    "title": "UX & UI",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "order": 9
+  },
+  {
+    "name": "Aitor Freije",
+    "title": "Designer",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "order": 10
+  },
+  {
+    "name": "Mario Azurza",
+    "title": "Admissions manager",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "order": 11
+  },
+  {
+    "name": "Caro Chemino",
+    "title": "Admissions manager",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "order": 12
+  },
+  {
+    "name": "Nico Oviedo",
+    "title": "Admissions manager",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/nico.jpg",
+    "order": 13
+  },
+  {
+    "name": "Carmen Fernández",
+    "title": "Operations",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "order": 15
+  },
+  {
+    "name": "Xavi Armengol",
+    "title": "Head of Communities",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "order": 14
+  },
+  {
+    "name": "Marta Jiménez (OCCAM)",
+    "title": "SEO and Content",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/marta_occam.jpg",
+    "order": 19
+  },
+  {
+    "name": "Javi Celorrio",
+    "title": "Bootcamp Director",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "order": 18
+  },
+  {
+    "name": "Roberto Díaz",
+    "title": "Bootcamp Director",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "order": 17
+  },
+  {
+    "name": "Quique Lahuerta",
+    "title": "Bootcamp Director",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "order": 16
+  },
+  {
+    "name": "Sergio García (FLOC)",
+    "title": "Brand manager",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/sergio_floc.jpg",
+    "order": 20
+  }
+]
