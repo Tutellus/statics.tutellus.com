@@ -2,19 +2,19 @@
   {
     "name": "Miguel Caballero",
     "title": "CEO",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/miguel.jpg",
     "order": 1
   },
   {
     "name": "Javi “Sokar” Ortiz",
     "title": "CTO",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/sokar.jpg",
     "order": 2
   },
   {
     "name": "Chema Prieto",
     "title": "CMO",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/chema.jpg",
     "order": 3
   },
   {
@@ -26,49 +26,43 @@
   {
     "name": "Víctor Merino",
     "title": "Web3 builder",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/victor.jpg",
     "order": 5
   },
   {
     "name": "Guille Pérez",
     "title": "Web3 builder",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/guille.jpg",
     "order": 6
   },
   {
     "name": "Dani Muñoz",
     "title": "Frontender",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/dani.jpg",
     "order": 7
   },
   {
     "name": "David García",
     "title": "Frontender",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/dave.jpg",
     "order": 8
   },
   {
     "name": "Jordi Muñoz",
     "title": "UX & UI",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/jordi.jpg",
     "order": 9
   },
   {
-    "name": "Aitor Freije",
-    "title": "Designer",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
-    "order": 10
-  },
-  {
     "name": "Mario Azurza",
-    "title": "Admissions manager",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "title": "Alumni Success Manager",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/mario.jpg",
     "order": 11
   },
   {
     "name": "Caro Chemino",
-    "title": "Admissions manager",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "title": "Marketing",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/caro.jpg",
     "order": 12
   },
   {
@@ -80,13 +74,13 @@
   {
     "name": "Carmen Fernández",
     "title": "Operations",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/carmen.jpg",
     "order": 15
   },
   {
     "name": "Xavi Armengol",
     "title": "Head of Communities",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/xavi.jpg",
     "order": 14
   },
   {
@@ -98,19 +92,19 @@
   {
     "name": "Javi Celorrio",
     "title": "Bootcamp Director",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/celorrio.jpg",
     "order": 18
   },
   {
     "name": "Roberto Díaz",
     "title": "Bootcamp Director",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/robert.jpg",
     "order": 17
   },
   {
     "name": "Quique Lahuerta",
     "title": "Bootcamp Director",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/aitor.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/quique.jpg",
     "order": 16
   },
   {
