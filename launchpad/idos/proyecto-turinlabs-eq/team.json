@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Miguel Caballero",
+    "title": "CEO",
+    "imageUrl": "https://www.turinlabs.com/_next/image?url=https%3A%2F%2Fd3os3rq25u3h91.cloudfront.net%2Fimages%2Fteam%2Fmiguel.png&w=1920&q=75",
+    "order": 1
+  },
+  {
+    "name": "Javi “Sokar” Ortiz",
+    "title": "CTO",
+    "imageUrl": "https://www.turinlabs.com/_next/image?url=https%3A%2F%2Fd3os3rq25u3h91.cloudfront.net%2Fimages%2Fteam%2Fsokar.png&w=1920&q=75",
+    "order": 2
+  },
+  {
+    "name": "Carlos Borlado",
+    "title": "Advisor",
+    "imageUrl": "https://www.turinlabs.com/_next/image?url=https%3A%2F%2Fd3os3rq25u3h91.cloudfront.net%2Fimages%2Fteam%2Fborlado.png&w=1920&q=75",
+    "order": 7
+  },
+  {
+    "name": "Carlos Roldán",
+    "title": "Advisor",
+    "imageUrl": "https://www.turinlabs.com/_next/image?url=https%3A%2F%2Fd3os3rq25u3h91.cloudfront.net%2Fimages%2Fteam%2Fker.png&w=1920&q=75",
+    "order": 8
+  }
+]
