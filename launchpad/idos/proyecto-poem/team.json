@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Jorge Dot",
+    "title": "Producer",
+    "imageUrl": "https://d2aq4auj5r0lzx.cloudfront.net/images/jorge_.png",
+    "order": 1
+  },
+  {
+    "name": "Miguel Caballero",
+    "title": "Tokenomics",
+    "imageUrl": "https://d2aq4auj5r0lzx.cloudfront.net/images/miguel.png",
+    "order": 2
+  },
+  {
+    "name": "Javi “Sokar” Ortiz",
+    "title": "Tech",
+    "imageUrl": "https://d2aq4auj5r0lzx.cloudfront.net/images/sokar.png",
+    "order": 3
+  },
+  {
+    "name": "Carlos Dot",
+    "title": "Marketing",
+    "imageUrl": "https://d2aq4auj5r0lzx.cloudfront.net/images/carlos_dot.png",
+    "order": 4
+  }
+]
