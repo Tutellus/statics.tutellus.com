@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Alberto Iglesias",
+    "title": "CEO",
+    "imageUrl": "https://www.notion.so/Team-553dffeb085e4c0aba1a4613bf97a28c",
+    "order": 1
+  },
+  {
+    "name": "Juan Bustillo",
+    "title": "CFO + Tokenomics",
+    "imageUrl": "https://www.notion.so/Team-553dffeb085e4c0aba1a4613bf97a28c",
+    "order": 2
+  },
+  {
+    "name": "Miguel Ángel Sillero",
+    "title": "CTO",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tokentrotter/miguel_angel_sillero.png",
+    "order": 3
+  },
+  {
+    "name": "David Gómez",
+    "title": "Sales Manager",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tokentrotter/miguel_angel_sillero.png",
+    "order": 4
+  },
+  {
+    "name": "Gabriel Salaverry",
+    "title": "Marketing Manager",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tokentrotter/miguel_angel_sillero.png",
+    "order": 5
+  },
+  {
+    "name": "Jorge Rodríguez",
+    "title": "Mathematics Mgr",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tokentrotter/miguel_angel_sillero.png",
+    "order": 6
+  },
+  {
+    "name": "Sergi Martín",
+    "title": "Design Manager",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tokentrotter/miguel_angel_sillero.png",
+    "order": 7
+  },
+  {
+    "name": "Alexander Herranz",
+    "title": "Developer",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tokentrotter/miguel_angel_sillero.png",
+    "order": 8
+  },
+  {
+    "name": "Carlos Azkue",
+    "title": "Communications Mgr",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tokentrotter/miguel_angel_sillero.png",
+    "order": 9
+  },
+  {
+    "name": "Bianca Vintila",
+    "title": "Legal Advisor",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tokentrotter/miguel_angel_sillero.png",
+    "order": 10
+  },
+  {
+    "name": "Aitor Zubizarreta",
+    "title": "Legal Advisor",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tokentrotter/aitor_zubizarreta.png",
+    "order": 11
+  },
+  {
+    "name": "Javier Castro",
+    "title": "Strategic Advisor",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tokentrotter/miguel_angel_sillero.png",
+    "order": 12
+  },
+  {
+    "name": "Miguel Peñate",
+    "title": "Strategic Advisor",
+    "imageUrl": "https://www.notion.so/Team-553dffeb085e4c0aba1a4613bf97a28c",
+    "order": 13
+  }
+]
