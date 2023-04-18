@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Eric Sánchez",
+    "title": "CEO",
+    "imageUrl": "",
+    "order": 1
+  },
+  {
+    "name": "Miguel Caballero",
+    "title": "Tokenomics",
+    "imageUrl": "",
+    "order": 3
+  },
+  {
+    "name": "Javi “Sokar” Ortiz",
+    "title": "CTO",
+    "imageUrl": "",
+    "order": 4
+  },
+  {
+    "name": "Jose Aguilar",
+    "title": "Real Estate",
+    "imageUrl": "",
+    "order": 2
+  },
+  {
+    "name": "Carla Castelló",
+    "title": "COO",
+    "imageUrl": "",
+    "order": 6
+  },
+  {
+    "name": "Adrián Paloma",
+    "title": "CFO",
+    "imageUrl": "",
+    "order": 7
+  },
+  {
+    "name": "Carmen de la Vara",
+    "title": "Customer Success",
+    "imageUrl": "",
+    "order": 8
+  },
+  {
+    "name": "Max Cartucho",
+    "title": "Growth manager",
+    "imageUrl": "",
+    "order": 9
+  },
+  {
+    "name": "Pol Martínez",
+    "title": "Growth marketing",
+    "imageUrl": "",
+    "order": 10
+  },
+  {
+    "name": "Liza Matikova",
+    "title": "Community manager",
+    "imageUrl": "",
+    "order": 11
+  },
+  {
+    "name": "Mónica Pagano",
+    "title": "Real estate operations",
+    "imageUrl": "",
+    "order": 12
+  },
+  {
+    "name": "Víctor Merino",
+    "title": "Crypto Developer",
+    "imageUrl": "",
+    "order": 13
+  },
+  {
+    "name": "Guillermo Pérez",
+    "title": "Crypto Developer",
+    "imageUrl": "",
+    "order": 14
+  },
+  {
+    "name": "Isaac Acosta",
+    "title": "Frontend Developer",
+    "imageUrl": "",
+    "order": 15
+  },
+  {
+    "name": "Fernando Ors",
+    "title": "Presidente Americas",
+    "imageUrl": "",
+    "order": 5
+  },
+  {
+    "name": "Cristina Lloret",
+    "title": "Marketing & Communication",
+    "imageUrl": "",
+    "order": 16
+  }
+]
