@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Miguel Caballero",
+    "title": "CEO",
+    "imageUrl": "https://www.turinlabs.com/_next/image?url=https%3A%2F%2Fd3os3rq25u3h91.cloudfront.net%2Fimages%2Fteam%2Fmiguel.png&w=1920&q=75",
+    "order": 1
+  },
+  {
+    "name": "Javi “Sokar” Ortiz",
+    "title": "CTO",
+    "imageUrl": "https://www.turinlabs.com/_next/image?url=https%3A%2F%2Fd3os3rq25u3h91.cloudfront.net%2Fimages%2Fteam%2Fsokar.png&w=1920&q=75",
+    "order": 2
+  },
+  {
+    "name": "Roberto Díaz",
+    "title": "Front-end",
+    "imageUrl": "https://www.turinlabs.com/_next/image?url=https%3A%2F%2Fd3os3rq25u3h91.cloudfront.net%2Fimages%2Fteam%2Froberto_transparent.png&w=1920&q=75",
+    "order": 4
+  },
+  {
+    "name": "Diego Pérez",
+    "title": "Back-end",
+    "imageUrl": "https://www.turinlabs.com/_next/image?url=https%3A%2F%2Fd3os3rq25u3h91.cloudfront.net%2Fimages%2Fteam%2Fdiego_transparent.png&w=1920&q=75",
+    "order": 5
+  },
+  {
+    "name": "Juan Luis Francés",
+    "title": "DevOps",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/jlfrances.png",
+    "order": 6
+  },
+  {
+    "name": "Samuel Rodríguez",
+    "title": "Mobile",
+    "imageUrl": "https://www.turinlabs.com/_next/image?url=https%3A%2F%2Fd3os3rq25u3h91.cloudfront.net%2Fimages%2Fteam%2Fsguzgon.png&w=1920&q=75",
+    "order": 7
+  },
+  {
+    "name": "Carlos Borlado",
+    "title": "Advisor",
+    "imageUrl": "https://www.turinlabs.com/_next/image?url=https%3A%2F%2Fd3os3rq25u3h91.cloudfront.net%2Fimages%2Fteam%2Fborlado.png&w=1920&q=75",
+    "order": 8
+  },
+  {
+    "name": "Carlos Roldán",
+    "title": "Advisor",
+    "imageUrl": "https://www.turinlabs.com/_next/image?url=https%3A%2F%2Fd3os3rq25u3h91.cloudfront.net%2Fimages%2Fteam%2Fker.png&w=1920&q=75",
+    "order": 9
+  },
+  {
+    "name": "Fernando Ramos",
+    "title": "CLO",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/framos.png",
+    "order": 3
+  }
+]
