@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Ana Ramón Rubio",
+    "title": "Director",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fana_ramon_rubio.png&w=1920&q=75",
+    "order": 1
+  },
+  {
+    "name": "Juanjo Moscardó",
+    "title": "Producer",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fjuanjo_moscardo.png&w=1920&q=75",
+    "order": 2
+  },
+  {
+    "name": "Camila Jiménez",
+    "title": "Producer",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fcamila_jimenez.png&w=1920&q=75",
+    "order": 3
+  },
+  {
+    "name": "Silvana Aguirre",
+    "title": "Producer",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fsilvana_aguirre.png&w=1920&q=75",
+    "order": 4
+  },
+  {
+    "name": "Miguel Caballero",
+    "title": "Tokenomics & Associate Producers",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fmiguel_caballero.png&w=1920&q=75",
+    "order": 5
+  },
+  {
+    "name": "Javi “Sokar” Ortiz",
+    "title": "CTO & Associate Producer",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fsokar.png&w=1920&q=75",
+    "order": 6
+  },
+  {
+    "name": "Javi Celorrio",
+    "title": "Tokenomics & Associate Producer",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fjavi_celorrio.png&w=1920&q=75",
+    "order": 7
+  },
+  {
+    "name": "Carlos Celorrio",
+    "title": "Tokenomics & Associate Producer",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fcarlos_celorrio.png&w=1920&q=75",
+    "order": 8
+  },
+  {
+    "name": "Víctor Merino",
+    "title": "Developer",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fvictor_merino.png&w=1920&q=75",
+    "order": 9
+  },
+  {
+    "name": "Guille Pérez",
+    "title": "Developer",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fguillermo_perez.png&w=1920&q=75",
+    "order": 10
+  },
+  {
+    "name": "Cristina Vivó",
+    "title": "Production manager",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fcristina_vivo.png&w=1920&q=75",
+    "order": 11
+  },
+  {
+    "name": "Celia Riera",
+    "title": "Photography Director",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fcelia_riera.png&w=1920&q=75",
+    "order": 12
+  },
+  {
+    "name": "Carlos Lidón",
+    "title": "Sound manager",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fcarlos_lidon.png&w=1920&q=75",
+    "order": 13
+  },
+  {
+    "name": "Paula Salañer",
+    "title": "Direction Assistant",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fpaula_salaner.png&w=1920&q=75",
+    "order": 14
+  },
+  {
+    "name": "David Martínez",
+    "title": "Production Assistant",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fdavid_martinez.png&w=1920&q=75",
+    "order": 15
+  },
+  {
+    "name": "Carlos López",
+    "title": "Camera Assistant",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fcarlos_lopez.png&w=1920&q=75",
+    "order": 16
+  },
+  {
+    "name": "Lluis Moreno",
+    "title": "camera assistant",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Flluis_moreno.png&w=1920&q=75",
+    "order": 17
+  },
+  {
+    "name": "Vanesa Ribera",
+    "title": "makeup and hairdressing",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fvanesa_ribera.png&w=1920&q=75",
+    "order": 18
+  },
+  {
+    "name": "Pilar Maestre",
+    "title": "documentation and files",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fpilar_maestre.png&w=1920&q=75",
+    "order": 19
+  },
+  {
+    "name": "César García",
+    "title": "mounting",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Fcesar_garcia.png&w=1920&q=75",
+    "order": 20
+  },
+  {
+    "name": "Alvar López",
+    "title": "Script consultant",
+    "imageUrl": "https://www.bullrunlapelicula.com/_next/image/?url=https%3A%2F%2Fd37a7r8v8vesg5.cloudfront.net%2Fimages%2Falvar_lopez.png&w=1920&q=75",
+    "order": 21
+  }
+]
