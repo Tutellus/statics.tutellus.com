@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Lucas Leal",
+    "title": "CEO",
+    "imageUrl": "https://d22xpa7simk4zd.cloudfront.net/images/lucas.png",
+    "order": 1
+  },
+  {
+    "name": "Miguel Caballero",
+    "title": "Tokenomics",
+    "imageUrl": "https://d22xpa7simk4zd.cloudfront.net/images/miguel.png",
+    "order": 2
+  },
+  {
+    "name": "Javi “Sokar” Ortiz",
+    "title": "CTO",
+    "imageUrl": "https://d22xpa7simk4zd.cloudfront.net/images/sokar.png",
+    "order": 3
+  },
+  {
+    "name": "Víctor Merino",
+    "title": "Developer",
+    "imageUrl": "https://d22xpa7simk4zd.cloudfront.net/images/victor.png",
+    "order": 4
+  },
+  {
+    "name": "Oscar García",
+    "title": "Business Developer",
+    "imageUrl": "https://d22xpa7simk4zd.cloudfront.net/images/oscar.png",
+    "order": 5
+  },
+  {
+    "name": "Isaac Jiménez",
+    "title": "Tech integrations",
+    "imageUrl": "https://d22xpa7simk4zd.cloudfront.net/images/isaac.png",
+    "order": 6
+  },
+  {
+    "name": "Lautaro Bidegain",
+    "title": "Latam Business Developer",
+    "imageUrl": "https://d22xpa7simk4zd.cloudfront.net/images/lautaro.png",
+    "order": 7
+  }
+]
