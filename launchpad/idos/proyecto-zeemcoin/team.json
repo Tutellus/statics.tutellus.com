@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Borja Moreno",
+    "title": "CEO",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/zeemcoin/borja_moreno.png",
+    "order": 1
+  },
+  {
+    "name": "Peter Van Praet",
+    "title": "Cofounder",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/zeemcoin/peter_van_praet.png",
+    "order": 2
+  },
+  {
+    "name": "Pawel Malkowiak",
+    "title": "CTO",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/zeemcoin/pawel_malkowiak.png",
+    "order": 3
+  },
+  {
+    "name": "Iván Gómez",
+    "title": "COO",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/zeemcoin/ivan_gomez.png",
+    "order": 4
+  },
+  {
+    "name": "Miguel Caballero",
+    "title": "Token",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/zeemcoin/miguel_caballero.png",
+    "order": 5
+  },
+  {
+    "name": "Guillermo Azumendi",
+    "title": "Operaciones",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/zeemcoin/guillermo_azumendi.png",
+    "order": 6
+  },
+  {
+    "name": "Mariana Bolívar",
+    "title": "Marketing Manager",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/zeemcoin/mariana_bolivar.png",
+    "order": 7
+  },
+  {
+    "name": "Arturo Pérez de Lucía",
+    "title": "Advisor - emobility",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/zeemcoin/arturo_perez_de_lucia.png",
+    "order": 8
+  }
+]
