@@ -47,41 +47,65 @@
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/dave.jpg",
     "order": 8
   },
+   {
+    "name": "Joni Agüero",
+    "title": "Frontender",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/dave.jpg",
+    "order": 9
+  },
+   {
+    "name": "David Nieto",
+    "title": "Frontender",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/dave.jpg",
+    "order": 10
+  },
   {
     "name": "Jordi Muñoz",
     "title": "UX & UI",
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/jordi.jpg",
-    "order": 9
+    "order": 11
+  },
+  {
+    "name": "Brenda Montes",
+    "title": "Designer",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/jordi.jpg",
+    "order": 12
   },
   {
     "name": "Mario Azurza",
     "title": "Alumni Success Manager",
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/mario.jpg",
-    "order": 11
+    "order": 13
   },
   {
     "name": "Caro Chemino",
     "title": "Marketing",
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/caro.jpg",
-    "order": 12
+    "order": 14
+  },
+   {
+    "name": "Manuela Blazquez",
+    "title": "Marketing",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/caro.jpg",
+    "order": 15
   },
   {
     "name": "Nico Oviedo",
     "title": "Admissions manager",
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/nico.jpg",
-    "order": 13
+    "order": 16
   },
   {
     "name": "Carmen Fernández",
     "title": "Operations",
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/carmen.jpg",
-    "order": 15
+    "order": 17
   },
   {
     "name": "Xavi Armengol",
     "title": "Head of Communities",
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/xavi.jpg",
-    "order": 14
+    "order": 18
   },
   {
     "name": "Marta Jiménez (OCCAM)",
@@ -93,24 +117,24 @@
     "name": "Javi Celorrio",
     "title": "Bootcamp Director",
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/celorrio.jpg",
-    "order": 18
+    "order": 20
   },
   {
     "name": "Roberto Díaz",
     "title": "Bootcamp Director",
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/robert.jpg",
-    "order": 17
+    "order": 21
   },
   {
     "name": "Quique Lahuerta",
     "title": "Bootcamp Director",
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/quique.jpg",
-    "order": 16
+    "order": 22
   },
   {
     "name": "Sergio García (FLOC)",
     "title": "Brand manager",
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/sergio_floc.jpg",
-    "order": 20
+    "order": 23
   }
 ]
