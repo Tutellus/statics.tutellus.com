@@ -50,13 +50,13 @@
    {
     "name": "Joni Agüero",
     "title": "Frontender",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/dave.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/joni.png",
     "order": 9
   },
    {
     "name": "David Nieto",
     "title": "Frontender",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/dave.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/david.png",
     "order": 10
   },
   {
@@ -68,7 +68,7 @@
   {
     "name": "Brenda Montes",
     "title": "Designer",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/jordi.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/brenda.png",
     "order": 12
   },
   {
@@ -86,7 +86,7 @@
    {
     "name": "Manuela Blazquez",
     "title": "Marketing",
-    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/caro.jpg",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/teams/tutellus/manuela.png",
     "order": 15
   },
   {
