@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Ivan Sowa",
+    "title": "Founder",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/ivan_sowa.png",
+    "order": 1
+  },
+  {
+    "name": "Alejandro Montoya",
+    "title": "CEO",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/alejandro_montoya.png",
+    "order": 2
+  },
+  {
+    "name": "Manel Mondejar",
+    "title": "Director Comercial",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/manel_mondejar.png",
+    "order": 3
+  },
+  {
+    "name": "Alvaro Montoya",
+    "title": "Director Contable",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/alvaro_montoya.png",
+    "order": 4
+  },
+  {
+    "name": "Rubèn Gallart",
+    "title": "Director Marketing",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/ruben_gallart.png",
+    "order": 5
+  },
+  {
+    "name": "Guillem Medina",
+    "title": "Responsable de Soporte y Formaciones",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/guillem_medina.png",
+    "order": 5
+  },
+  {
+    "name": "Guillem Medina",
+    "title": "Responsable de Soporte y Formaciones",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/ruben_gallart.png",
+    "order": 6
+  },
+  {
+    "name": "Sergio Felguera",
+    "title": "Dpto. Soporte y Desarrollo",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/sergio_felguera.png",
+    "order": 7
+  },
+  {
+    "name": "Evelyn Olid",
+    "title": "Diseño",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/evelyn_olid.png",
+    "order": 8
+  },
+  {
+    "name": "Pau Cruz",
+    "title": "Community Manager",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/pau_cruz.png",
+    "order": 9
+  },
+  {
+    "name": "Dione",
+    "title": "Programador",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/dione.png",
+    "order": 10
+  },
+  {
+    "name": "Alexis Herrera",
+    "title": "Auxiliar Contable",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/alexis_herrera.png",
+    "order": 11
+  },
+  {
+    "name": "Ena",
+    "title": "Programador",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/ena.png",
+    "order": 12
+  }
+]

@@ -1,0 +1,2 @@
+- **Precio en IDO**: $0.15, con el 5% de los tokens liberados en el TGE y vesting lineal durante 18 meses
+- **Precio público**: $0.25, en un pool de Sushi y en el CEX de GBTC.
