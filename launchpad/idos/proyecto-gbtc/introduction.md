@@ -29,7 +29,7 @@ Además, genera un modelo de negocio rentable para el franquiciado y beneficioso
 Los ATM o cajeros automáticos son dispositivos electrónicos que permiten realizar operaciones de compra y venta de criptomonedas de forma segura y confiable sin la necesidad de interactuar con ningún agente en vivo. Su disponibilidad está limitada al espacio diurno.
 Se pueden encontrar los 19 ATM de GBTC Finance en la calle, en centros comerciales, pequeños comercios o en el interior de las propias Stores.
 
-![gbtc-project-02](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/gbtc-project-02.png)
+![gbtc-project-02](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/gbtc-project-02.jpg)
 
 ### Localización de los 19 puntos de compraventa
 
