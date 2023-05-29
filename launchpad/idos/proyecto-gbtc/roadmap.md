@@ -22,7 +22,7 @@ Un tenedor que disponga de mas de 1.000 $GBTC en Staking y bloqueado por 12 mese
 Un tenedor que disponga de mas de 20.000 $GBTC en Staking y bloqueado por 12 meses pasará a formar parte del grupo Expert Finance y disfrutará de los siguientes beneficios:
 
 - Rembolsos Expert
-- Acceso a Crowfunding: hasta 5.000€ en el equity de la tienda, y siempre como sicio minoritario
+- Acceso a Crowfunding: hasta 5.000€ en el equity de la tienda, y siempre como socio minoritario
 - Multiplicador de rendimientos x 1.1
 - Gobernanza en el token, pero sin gobernanza en la tienda
 

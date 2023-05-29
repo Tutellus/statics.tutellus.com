@@ -1,7 +1,7 @@
 [
   {
     "name": "Ivan Sowa",
-    "title": "Founder",
+    "title": "Founder y CTO",
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/ivan_sowa.png",
     "order": 1
   },
@@ -31,13 +31,13 @@
   },
   {
     "name": "Guillem Medina",
-    "title": "Responsable de Soporte y Formaciones",
+    "title": "Resp. de Soporte y Formaciones",
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/guillem_medina.png",
     "order": 6
   },
   {
     "name": "Sergio Felguera",
-    "title": "Dpto. Soporte y Desarrollo",
+    "title": "Soporte y Operaciones",
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/sergio_felguera.png",
     "order": 7
   },
@@ -55,7 +55,7 @@
   },
   {
     "name": "Dione",
-    "title": "Programador",
+    "title": "Programador Full Stack",
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/dione.png",
     "order": 10
   },
@@ -67,7 +67,7 @@
   },
   {
     "name": "Ena",
-    "title": "Programador",
+    "title": "Programador Frontend",
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/team/ena.png",
     "order": 12
   }
