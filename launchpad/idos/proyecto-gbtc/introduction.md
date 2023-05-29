@@ -35,7 +35,7 @@ Se pueden encontrar los 19 ATM de GBTC Finance en la calle, en centros comercial
 
 Actualmente, estos son los 19 puntos de compraventa físicos que tenemos repartidos por el territorio nacional. Estamos trabajando en la apertura de nuevas ubicaciones.
 
-![gbtc-project-03](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/gbtc-project-03.png)
+![gbtc-project-03](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/gbtc/gbtc-project-03.jpg)
 
 ### Próximas tiendas
 
