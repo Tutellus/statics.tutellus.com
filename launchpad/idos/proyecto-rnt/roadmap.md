@@ -34,3 +34,6 @@ En Reental, estamos constantemente buscando formas de innovar y expandir nuestro
 - Expansión y Diversificación: Al ofrecer nuestra tecnología a terceros, no solo democratizamos el acceso a la tokenización inmobiliaria, sino que también introducimos el ecosistema Reental a nuevos mercados y segmentos, diversificando aún más nuestra presencia.
 - Valorización y Demanda del Token RNT: Cada nueva implementación de nuestra solución
   White Label generará una mayor demanda de tokens RNT. Las entidades que adopten nuestra solución tendrán que adquirir y mantener en "staking" una cantidad determinada de tokens RNT, lo que potenciará su valor y demanda en el mercado.
+
+![Tokenomics_4](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/reental/rnt-project-4.png)
+![Tokenomics_5](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/reental/rnt-project-5.png)
