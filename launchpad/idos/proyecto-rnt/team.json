@@ -1,68 +1,92 @@
 [
   {
     "name": "Eric Sánchez",
-    "title": "COO",
+    "title": "CEO",
     "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697038113065_6495b01138aa4c2b6b1561cf_compoeric.png",
     "order": 1
   },
   {
     "name": "Carla Castelló",
     "title": "COO",
-    "imageUrl": " https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010183588_carla.png",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010183588_carla.png",
     "order": 2
   },
   {
     "name": "Miguel Caballero",
     "title": "CPO",
-    "imageUrl": " https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010200072_miguel.png",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010200072_miguel.png",
     "order": 3
   },
   {
     "name": "Javier Ortiz",
     "title": "CTO",
-    "imageUrl": " https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010223986_sokar.png",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010223986_sokar.png",
     "order": 4
   },
   {
     "name": "Andreu Matallí",
     "title": "CMO",
-    "imageUrl": " https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010243250_andreu.png",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010243250_andreu.png",
     "order": 5
   },
   {
     "name": "Jackie Aguilar",
     "title": "Real Estate",
-    "imageUrl": " https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010287918_jackie.png",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010287918_jackie.png",
     "order": 6
   },
   {
     "name": "Carmen de la Vara",
     "title": "Head of SM",
-    "imageUrl": " https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010307000_carmen.png",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010307000_carmen.png",
     "order": 7
   },
   {
     "name": "Cristina Romero",
     "title": "Head of C&M",
-    "imageUrl": " https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010336999_cris.png",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010336999_cris.png",
     "order": 8
   },
   {
-    "name": "Loreno Moreno",
+    "name": "Lorena Moreno",
     "title": "Head of Compliance",
-    "imageUrl": " https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010360731_lorena.png",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010360731_lorena.png",
     "order": 9
   },
   {
     "name": "Adrián Paloma",
     "title": "Head of Finance",
-    "imageUrl": " https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010398114_adrian.png",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010398114_adrian.png",
     "order": 10
   },
   {
     "name": "Liza Matikova",
     "title": "Marketing",
-    "imageUrl": " https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010446159_liza.png",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697010446159_liza.png",
     "order": 11
+  },
+  {
+    "name": "Andrés Glennen",
+    "title": "Area Manager",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697038061905_andres.png",
+    "order": 12
+  },
+  {
+    "name": "Enrique Rivero",
+    "title": "Business Manager",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697038092690_enrique.png",
+    "order": 13
+  },
+  {
+    "name": "Tamara Martínez",
+    "title": "UX / UI",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697038123131_tamara.png",
+    "order": 14
+  },
+  {
+    "name": "Amparo Berenguer",
+    "title": "Real Estate",
+    "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/team-members/1697038148756_amparo.png",
+    "order": 15
   }
 ]
