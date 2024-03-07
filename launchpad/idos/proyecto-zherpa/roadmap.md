@@ -8,4 +8,4 @@ Por último y no menos importante, las políticas tokenómicas a implementar est
 
 Te invitamos a que seas parte activa y proactiva del ecosistema $ZHERPA.
 
-https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zherpa/roadmap.png
+![](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zherpa/roadmap.png)
