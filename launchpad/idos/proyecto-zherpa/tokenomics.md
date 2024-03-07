@@ -6,7 +6,7 @@ Con esto queremos resaltar que la cantidad de recursos que ponemos en circulaci�
 
 El proyecto $ZHERPA cubrirá solo una mínima parte del ecosistema Zoho, pero si posicionamos bien el token (único en su especie) se terminará convirtiendo en un extraordinario instrumento de captación de valor: como habrá una oferta muy reducida (28.53 personas-año) para la demanda real (más de 600 mil empresas demandando servicios), el precio subirá irremediablemente según las clásicas curvas de oferta y demanda:
 
-https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zherpa/intro_token.png
+![](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zherpa/intro_token.png)
 
 Además, tengamos en cuenta que los tokens en circulación “no bloqueados” serán muchos menos, ya que los usuarios los tendrán en la forma de xZHERPA, $ZHERPA o en los propios contratos de stacking y farming del protocolo, por lo que a una mucho menor oferta real de tokens, los precios subirán más. Por ello, entrar en la venta privada del $ZHERPA se convierte en una extraordinaria oportunidad tanto de negocio para la empresa como de inversión.
 
