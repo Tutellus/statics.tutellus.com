@@ -39,7 +39,7 @@ El otro 50% se reparte entre Incentivos (por aportar liquidez al protocolo), Rec
 
 Los incentivos se liberarán durante 10 años (40 trimestres), y la inflación generada anual está muy controlada según los tokenomics realizados: 6% desde el año 2 y por debajo del 3% desde el tercer año, lo cual disminuirá enormemente la presión de venta.
 
-https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zherpa/emision_general.png
+![](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zherpa/emision_general.png)
 
 Los tokens que antes se liberan (a 1 año o 4 trimestres) son los de la venta privada, mientras que los asociados a Zherpa y Tutellus tardarán 3 años (12 trimestres) en liberarse. Con este movimiento premiamos a los holders sobre las 2 compañías promotoras del proyecto.
 
