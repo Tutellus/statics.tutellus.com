@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Miguel Arce",
+      "title": "CEO",
+      "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zherpa/miguel.png",
+      "order": 1
+    },
+    {
+      "name": "Ofelia Guzman",
+      "title": "COO",
+      "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zherpa/ofelia.png",
+      "order": 2
+    },
+    {
+      "name": "Rodrigo Gomez",
+      "title": "CMO",
+      "imageUrl": "https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zherpa/rodri.png",
+      "order": 3
+    }
+]
