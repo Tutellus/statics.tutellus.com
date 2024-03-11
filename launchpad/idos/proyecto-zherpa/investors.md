@@ -1,0 +1,2 @@
+- Comunidad Zherpa y SuperTutellianos a través de la venta privada
+- MDOCorp como empresa matriz, creadora de Zherpa
