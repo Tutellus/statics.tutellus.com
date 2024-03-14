@@ -8,7 +8,7 @@ El proyecto ZHT cubrirá solo una mínima parte del ecosistema Zoho, pero si pos
 
 ![](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zherpa/intro_token.png)
 
-Además, tengamos en cuenta que los tokens en circulación “no bloqueados” serán muchos menos, ya que los usuarios los tendrán en la forma de xZHT, $ZHT o en los propios contratos de stacking y farming del protocolo, por lo que a una mucho menor oferta real de tokens, los precios subirán más. Por ello, entrar en la venta privada del $ZHT se convierte en una extraordinaria oportunidad tanto de negocio para la empresa como de inversión.
+Además, tengamos en cuenta que los tokens en circulación “no bloqueados” serán muchos menos, ya que los usuarios los tendrán en la forma de xZHT, ZHT o en los propios contratos de stacking y farming del protocolo, por lo que a una mucho menor oferta real de tokens, los precios subirán más. Por ello, entrar en la venta privada del ZHT se convierte en una extraordinaria oportunidad tanto de negocio para la empresa como de inversión.
 
 **5.2 Emisión general**
 
