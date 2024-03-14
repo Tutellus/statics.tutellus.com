@@ -6,6 +6,6 @@ La estrategia comercial y de marketing a implementar garantizan el acercamiento 
 
 Por último y no menos importante, las políticas tokenómicas a implementar establecen ciertos mecanismos por los que el token capturará valor, por lo que los compradores en etapas iniciales se verán altamente beneficiados.
 
-Te invitamos a que seas parte activa y proactiva del ecosistema $ZHERPA.
+Te invitamos a que seas parte activa y proactiva del ecosistema ZHT.
 
 ![](https://d1ddeojt5lrj1t.cloudfront.net/launchpads/zherpa/roadmap.png)
